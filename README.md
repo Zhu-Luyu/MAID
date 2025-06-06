@@ -84,10 +84,15 @@ Our code is based on the frameworks provided by [CNNDetection](https://github.co
 If you find this work useful for your research, please cite our paper:
 
 ```text
-@inproceedings{zhu2025maid,
-  title={MAID: Model Attribution via Inverse Diffusion},
-  author={Luyu Zhu and Kai Ye and Jiayu Yao and Chenxi Li and Luwen Zhao and Yuxin Cao and Derui Wang and Jie Hao},
+@INPROCEEDINGS{10888869,
+  author={Zhu, Luyu and Ye, Kai and Yao, Jiayu and Li, Chenxi and Zhao, Luwen and Cao, Yuxin and Wang, Derui and Hao, Jie},
   booktitle={ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
-  year={2025}
+  title={MAID: Model Attribution via Inverse Diffusion}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Limiting;Noise reduction;Autoencoders;Diffusion processes;Feature extraction;Diffusion models;Security;Surges;Speech processing;Glass box;Deepfake;Diffusion Model;Model Attribution},
+  doi={10.1109/ICASSP49660.2025.10888869}
 }
 ```
